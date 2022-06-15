@@ -10,6 +10,7 @@
 *.rar
 *.tar
 *.zip
+*.json
 
 # Logs and databases #
 ######################
@@ -26,3 +27,5 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+*.cache
+*.cache

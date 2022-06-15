@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pbbgt20asi\\source\\repos\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "H:\\Desktop\\Uebungsprojekt\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pbbgt20asi\\source\\repos\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "H:\\Desktop\\Uebungsprojekt\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pbbgt20asi\\source\\repos\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "H:\\Desktop\\Uebungsprojekt\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\pbbgt20asi\\source\\repos\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "H:\\Desktop\\Uebungsprojekt\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\pbbgt20asi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pbbgt20asi\\source\\repos\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
+        "outputPath": "H:\\Desktop\\Uebungsprojekt\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "H:\\Anwendungsdaten\\NuGet\\NuGet.Config",
