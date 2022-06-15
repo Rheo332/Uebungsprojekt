@@ -28,3 +28,9 @@
 ehthumbs.db
 Thumbs.db
 *.cache
+/RazorPagesMovie/.vs/RazorPagesMovie/DesignTimeBuild/.dtbcache.v2
+/RazorPagesMovie/.vs/RazorPagesMovie/v16/.suo
+/RazorPagesMovie/RazorPagesMovie/obj/*.json
+/RazorPagesMovie/RazorPagesMovie/obj/project.assets.json
+/RazorPagesMovie/RazorPagesMovie/obj/project.nuget.cache
+/RazorPagesMovie/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.csproj.AssemblyReference.cache
